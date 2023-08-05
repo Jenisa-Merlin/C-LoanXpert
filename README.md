@@ -1,8 +1,4 @@
-C LoanXpert
-A feature-rich project that employs files, functions, structures, and arrays to manage cash loans and deposits. It incorporates admin and customer logins with distinct access levels, enabling smooth operation of various loan schemes.
-
-                                                              
-              FINANCE MANAGEMENT SYSTEM
+FINANCE MANAGEMENT SYSTEM
 
         In this mini project we have built a code using C language to manage the needs of a finance.  We have used various aspects of C language like files, functions, structures and arrays. This finance provides cash loan and cash deposit for the customers with various schemes.
      In our project there are two logins admin and customer.
