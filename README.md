@@ -1,5 +1,6 @@
-# C-FINANCE-MANAGEMENT-SYSTEM
-It is a c language based mini project where I have designed a simple finance management system. 
+C LoanXpert
+A feature-rich project that employs files, functions, structures, and arrays to manage cash loans and deposits. It incorporates admin and customer logins with distinct access levels, enabling smooth operation of various loan schemes.
+
                                                               
               FINANCE MANAGEMENT SYSTEM
 
